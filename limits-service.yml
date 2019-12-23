@@ -1,3 +1,4 @@
 limits-service:
-  minimum:8
   maximum:888
+  minimum:8
+  
